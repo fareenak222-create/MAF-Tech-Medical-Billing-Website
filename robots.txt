@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fareenak222-create.github.io/MAF-Tech-Medical-Billing-Website/sitemap.xml
